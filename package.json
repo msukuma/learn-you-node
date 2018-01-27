@@ -1,0 +1,9 @@
+{
+  "name": "learn-you-node",
+  "version": "1.0.0",
+  "description": "freecodecamp.org learnyounode exercises",
+  "author": "Itenga",
+  "dependencies": {
+    "dateformat": "^3.0.2"
+  }
+}
