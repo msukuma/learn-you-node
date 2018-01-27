@@ -1,4 +1,4 @@
-Learn-You-node
+Learn-You-Node
 ======================
 
 freecodecamp.org learnyounode exercises
